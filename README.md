@@ -8,7 +8,7 @@ pip install -r requirements.txt
 
 The traffic data files for Los Angeles (METR-LA)should be put into the `data/` folder. It is provided by [DCRNN](https://github.com/chnsh/DCRNN_PyTorch).
 
-The Carpark1918 dataset can be downlaod from the [GoogleDrive](https://drive.google.com/drive/folders/1oVOGL-gFR2osHjStaw5_Ma8YTchgw0r3?usp=sharing).
+The Carpark1918 dataset can be downlaod from the [GoogleDrive](https://drive.google.com/drive/folders/1yw4sdpuBIYXK_VyyOWcc-0EHUjewnxph?usp=sharing).
 
 
 Run the following commands to generate train/test/val dataset at  `data/{METR-LA,Carpark}/{train,val,test}.npz`.
